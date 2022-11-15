@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T17:53:38.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="AbvrX6hb53G69ThZNRzL" type="github"><diagram id="0I0ln8laUddPgTq1g4W_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T18:09:04.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oXM0Aai4CqKPL7TthJu9" version="20.5.3" type="github">
+  <diagram id="0I0ln8laUddPgTq1g4W_" name="Página-1">
+    <mxGraphModel dx="2242" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-1" value="GESTORES BD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-2" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-3" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-4" value="SQLServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-6" value="CARACTERISTICAS&lt;br&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;Es el sistema gestor de bases de datos relacional por excelencia.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;Es un SGBD&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;&quot;&gt;multihilo y multiusuario&lt;/span&gt;&amp;nbsp;utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="320" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-7" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;CARACTERISTICAS&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;Es un sistema gestor de bases de datos relacionales basado en el lenguaje&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;&quot;&gt;Transact-SQL&lt;/span&gt;, capaz de poner a disposición de muchos usuarios grandes cantidades de datos de manera simultánea.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-8" value="&lt;span style=&quot;color: rgb(75, 75, 75); font-family: Lato, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;CARACTERISTICAS&lt;br&gt;Este sistema gestor de base de datos relacional está&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: Lato, sans-serif; vertical-align: initial; color: rgb(75, 75, 75); text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;orientado a objetos&lt;/span&gt;&lt;span style=&quot;color: rgb(75, 75, 75); font-family: Lato, sans-serif; font-size: 16px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;y es libre, publicado bajo la licencia BSD.&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="320" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-9" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-14" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-15" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="10" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
