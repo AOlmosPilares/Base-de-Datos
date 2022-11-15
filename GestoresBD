@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T18:19:18.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fz2KfbvucgL4D59U3ssH" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T18:19:42.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jmgEDnupc8lDJkluqtLg" version="20.5.3" type="github">
   <diagram id="0I0ln8laUddPgTq1g4W_" name="Página-1">
     <mxGraphModel dx="2242" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-1" value="GESTORES BD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-1" value="GESTORES BD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-2" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-2" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-3" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-3" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-4" value="SQLServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-4" value="SQLServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="j5fwXtOwHT6BiqDQ4K2_-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5fwXtOwHT6BiqDQ4K2_-6" value="CARACTERISTICAS&lt;br&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;Es el sistema gestor de bases de datos relacional por excelencia.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 20px; overflow-wrap: break-word; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 22px; font-family: Lato, sans-serif; vertical-align: middle; color: rgb(75, 75, 75); background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;Es un SGBD&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: initial;&quot;&gt;multihilo y multiusuario&lt;/span&gt;&amp;nbsp;utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
